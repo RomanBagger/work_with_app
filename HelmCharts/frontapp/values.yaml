@@ -1,5 +1,5 @@
 container:
-  image: romanbeggar/frontend:1.4
+  image: romanbeggar/frontend:115
 
 replicaCount: 1
 
